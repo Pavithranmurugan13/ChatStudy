@@ -1,7 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-### PAVITHRAN MJ
-### 212223240112
+### NAME : PAVITHRAN MJ
+### REG.NO: 212223240112
+
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
